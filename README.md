@@ -16,12 +16,28 @@ This framework is ready to use without learning sass/scss, it's compiled in a si
 What Coloraiz wants to do is semplify the color selection, so we added 13 shades for every colors. Shades are structured with numbers, ranging from 1 to 13 (from lighter to darker) 
 
 Here the list with sample classes: 
-So as you can see there is a prefix before every $colorname and next there is the number of the shade.
-<h4>Subclasses</h4>
-All right, we have seen that you have 13 shades but.. How can i add a background color?
-Simple! There are 2 There is the class <code>.cz-bg</code> it turns the color in a background color
+```html
+.cz-$colorname-1
+.cz-$colorname-2
+.cz-$colorname-3
+.cz-$colorname-4
+.cz-$colorname-5
+.cz-$colorname-6
+.cz-$colorname-7
+.cz-$colorname-8
+.cz-$colorname-9
+.cz-$colorname-10
+.cz-$colorname-11
+.cz-$colorname-12
+.cz-$colorname-13
+```
 
-<h5>Backgrounds</h5>
-To add the background color you only need to add the <code>.cz-bg</code> class next at the
-abbr title=".cz-$colorname-$shade">class of the color</abbr>
-else if you want to color only the text you need to add only the class color.
+So as you can see there is a prefix before every $colorname and next there is the number of the shade.
+
+<h1>Download</h1>
+To get <b>Coloraiz</b> you can get it directly here on GitHub or from our <a href="http://www.coloraiz.webe.io">website</a>
+next you only need to link it in your page like a normal stylesheet
+```html
+<link link rel="stylesheet" href="../coloraiz/coloraiz.css" >
+```
+
