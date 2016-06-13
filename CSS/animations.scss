@@ -1,0 +1,77 @@
+@keyframes shade {
+  from { color: $gray-7; }
+  15% { color: $lgray-7; }
+  30% { color: $green-7; }
+  45% { color: $marine-7; }
+  60% { color: $azure-7; }
+  75% { color: $purple-7; }
+  to { color: $lred-7; }
+}
+
+@keyframes markshade {
+  from { color: $gray-7; }
+  15% { color: $lgray-7; }
+  30% { color: $green-7; }
+  45% { color: $marine-7; }
+  60% { color: $azure-7; }
+  75% { color: $purple-7; }
+  to { color: $lred-7; }
+}
+@keyframes bg-shade {
+  from {
+    background-color: $blue-7;
+    color: $white;
+  }
+  15% {
+    background-color: $lgray-7;
+    color: $white;
+   }
+  30% {
+    background-color: $green-7;
+      color: $white;
+        color: $white;
+   }
+  45% {
+    background-color: $marine-7;
+      color: $white;
+   }
+  60% {
+    background-color: $azure-7;
+      color: $white;
+   }
+  75% {
+    background-color: $purple-7;
+      color: $white;
+   }
+  to {
+    background-color: $lred-7;
+      color: $white;
+   }
+}
+
+@keyframes tada {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}

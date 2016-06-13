@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/* OLD
+
+html, body{
+	overflow:visible
+	}
+
+#fronH1 {
+	font-size: 80px;
+	}
+
+
+main {
+	 margin-top: 130%;
+}
+
+#dropdown_icon {
+	text-align:center;
+	width:100%;
+	font-size:40px;
+	position:relative;
+	}
+
+	*/
+	
+html,body{
+	overflow:visible;
+}
+
+#fronH1 {
+	font-size: 80px;
+	}
+
+main {
+	margin-top: 50px;
+}
+
+#dropdown_icon {
+	display:none;
+	}
+
+#dropup_icon {
+	display:none;
+	}
+
+header{
+	height:auto
+}
+
+#cc{
+	width:auto;
+	padding-left:4%;
+	padding-right:4%;
+}

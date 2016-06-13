@@ -1,0 +1,23 @@
+@import 'azure-palette'; //
+@import 'marine-palette'; //
+@import 'purple-palette'; //
+@import 'gray-palette'; //
+@import 'lgray-palette'; //
+@import 'lRed-palette'; //
+@import 'green-palette'; //
+@import 'blue-palette'; //
+@import 'orange-palette'; //
+
+.palette  {
+  transition: .5s;
+  display:    block;
+  margin:     0%;
+  padding:    0%;
+  border:     0;
+}
+.master-palette {
+  margin-top   : 20px;
+  margin-bottom: 20px;
+  position     : static;
+  text-align: center;
+}

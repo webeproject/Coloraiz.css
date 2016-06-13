@@ -1,0 +1,68 @@
+.thin {
+  font-weight: 200;
+}
+.thinner {
+  font-weight: 100;
+}
+.center {
+  position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.glyphicon-heart {
+  color: $lred-7;
+}
+
+.bg-gray-d6 {
+  background-color: black;
+}
+
+.letter {
+  margin-left:-10px;
+  margin-right:-10px;
+  font-weight: 100;
+}
+.bg-gray-d6 {
+  background-color: black;
+}
+
+.letter {
+  margin-left:-10px;
+  margin-right:-10px;
+  font-weight: 100;
+}
+.shade {
+  animation: 3s shade infinite alternate;
+}
+
+.noview {display:none}
+
+.fullscreen {
+	display: inline;
+	text-align:center;
+	width:100%;
+	height:100%;
+	position:fixed;
+	background-color:#c8cfd7;
+	background-attachment: fixed;
+	z-index:1000;
+}
+
+
+.glyphicon-hand-down {
+  color:$lgray-8;
+  &:hover {
+    color:$lgray-7;
+  }
+  &:active {
+    color:$lgray-5;
+  }
+}
+
+.pointer {
+  text-decoration: underline;
+  &:hover {
+    cursor:pointer;
+  }
+}
