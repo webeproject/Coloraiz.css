@@ -1,5 +1,4 @@
 # Coloraiz.css
-# Coloraiz.css
 This framework is ready to use without learning sass/scss, it's compiled in a single .css file with a class for every color shade. In this guide you'll learn how to implement in your projects, so.. let's start coding!
 
 <h2>Available colors:</h2> 
@@ -46,7 +45,7 @@ or you can use our CDN
 <link link rel="stylesheet" href="https://cdn.rawgit.com/Rawnly/Coloraiz.css/master/Coloraiz/coloraiz.css" >
 ```
 
-<h1>How to use</h1>
+#How to use
 <strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></strong> is very easy to use,
 to color a text you only need to add to it the class with the name of the color and the shade code
 ```html
