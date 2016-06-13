@@ -35,9 +35,35 @@ Here the list with sample classes:
 So as you can see there is a prefix before every $colorname and next there is the number of the shade.
 
 <h1>Download</h1>
-To get <b>Coloraiz</b> you can get it directly here on GitHub or from our <a href="http://www.coloraiz.webe.io">website</a>
+To get <b>Coloraiz</b> you can get it directly <a href="https://github.com/Rawnly/Coloraiz.css.git">here</a> on GitHub or from our <a href="http://www.coloraiz.webe.io">website</a>
 next you only need to link it in your page like a normal stylesheet
 ```html
 <link link rel="stylesheet" href="../coloraiz/coloraiz.css" >
+```
+or you can use our CDN
+```html
+<link link rel="stylesheet" href="Cdn link" >
+```
+
+<h1>How to use</h1>
+<a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a> is very easy to use,
+to color a text you only need to add to it the class with the name of the color and the shade code
+```html
+<!-- General html -->
+...
+<div>
+  <h1 class="cz-azure-7">This title is Azure</h1>
+  <p class="cz-purple-7"> and this text Purple</p>
+</div>
+```
+also if you want color the background of the <code>div</code> you simply add the <code>.cz-bg</code> class to it
+</div>
+```html
+<!-- General html -->
+...
+<div class="cz-gray-3 cz-bg"> <!-- i add the class to the div -->
+  <h1 class="cz-azure-7">This title is Azure</h1>
+  <p class="cz-purple-7"> and this text Purple</p>
+</div>
 ```
 
