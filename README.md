@@ -42,7 +42,7 @@ next you only need to link it in your page like a normal stylesheet
 ```
 or you can use our CDN
 ```html
-<link link rel="stylesheet" href="https://cdn.rawgit.com/Rawnly/Coloraiz.css/master/Coloraiz/coloraiz.css" >
+<link link rel="stylesheet" href="https://cdn.rawgit.com/Rawnly/Coloraiz.css/master/Coloraiz/coloraiz.min.css" >
 ```
 
 <h1>How to use</h1>
