@@ -1,0 +1,178 @@
+//  Release on Saturday 11-06-16 at 13:00
+//    Developed by Federico Vitale & Filippo Cozzini
+//      Powered by https://www.webe.io
+//       more infos and source code at
+//        http://www.coloraiz.webe.io
+//                  v.1.0.2
+
+// $purple
+$purple-1  : rgba(251,249,252, 1);
+$purple-2  : rgba(231,219,242, 1);
+$purple-3  : rgba(222,205,236, 1);
+$purple-4  : rgba(203,176,226, 1);
+$purple-5  : rgba(185,148,215, 1);
+$purple-6  : rgba(165,119,205, 1);
+
+$purple-7  : rgba(127,66,179, 1);
+
+$purple-8  : rgba(107,55,150, 1);
+$purple-9  : rgba(86,45,122, 1);
+$purple-10 : rgba(65,34,93, 1);
+$purple-11 : rgba(46,24,64, 1);
+$purple-12 : rgba(25,13,36, 1);
+$purple-13 : rgba(5,3,6, 1);
+
+// $lred
+$lred-1  : rgba(252,237,241, 1);
+$lred-2  : rgba(249,204,214, 1);
+$lred-3  : rgba(243, 169, 185, 1);
+$lred-4  : rgba(238,135,157, 1);
+$lred-5  : rgba(235,100,128, 1);
+$lred-6  : rgba(230,65,100, 1);
+
+$lred-7  : rgba(224,31,72, 1);
+
+$lred-8  : rgba(190, 26, 61, 1);
+$lred-9  : rgba(155, 21, 50, 1);
+$lred-10 : rgba(121, 17, 39, 1);
+$lred-11 : rgba(86, 12, 28, 1);
+$lred-12 : rgba(52, 7, 17, 1);
+$lred-13 : rgba(34,5,13, 1);
+
+// $marine
+$marine-1  : rgba(238, 253, 249, 1);
+$marine-2  : rgba(203, 248, 238, 1);
+$marine-3  : rgba(169, 243, 227, 1);
+$marine-4  : rgba(134, 238, 216, 1);
+$marine-5  : rgba(100, 234, 205, 1);
+$marine-6  : rgba(65, 229, 194, 1);
+
+$marine-7  : rgba(31, 224, 182, 1);
+
+$marine-8  : rgba(26, 190, 155, 1);
+$marine-9  : rgba(21, 155, 127, 1);
+$marine-10 : rgba(17, 121, 99, 1);
+$marine-11 : rgba(12, 86, 70, 1);
+$marine-12 : rgba(7, 52, 42, 1);
+$marine-13 : rgba(2, 17, 14, 1);
+
+// $gray
+$gray-1  : rgba(255, 255, 255, 1);
+$white   : rgba(255, 255, 255, 1);
+$gray-2  : rgba(235, 235, 235, 1);
+$gray-3  : rgba(214, 214, 214, 1);
+$gray-4  : rgba(194, 194, 194, 1);
+$gray-5  : rgba(173, 173, 173, 1);
+$gray-6  : rgba(153, 153, 153, 1);
+
+$gray-7  : rgba(122, 122, 122, 1);
+
+$gray-8  : rgba(103, 103, 103, 1);
+$gray-9  : rgba(83, 83, 83, 1);
+$gray-10 : rgba(63, 63, 63, 1);
+$gray-11 : rgba(44, 44, 44, 1);
+$gray-12 : rgba(24, 24, 24, 1);
+$gray-13 : rgba(0, 0, 0, 1);
+$black   : rgba(0, 0, 0, 1);
+
+// $green
+$green-1  : rgba(233, 247, 241, 1);
+$green-2  : rgba(205, 236, 222, 1);
+$green-3  : rgba(176, 226, 203, 1);
+$green-4  : rgba(147, 215, 184, 1);
+$green-5  : rgba(119, 205, 165, 1);
+$green-6  : rgba(90, 194, 146, 1);
+
+$green-7  : rgba(66, 179, 127, 1);
+
+$green-8  : rgba(61, 165, 117, 1);
+$green-9  : rgba(50, 136, 96, 1);
+$green-10 : rgba(40, 107, 76, 1);
+$green-11 : rgba(29, 79, 56, 1);
+$green-12 : rgba(18, 50, 35, 1);
+$green-13 : rgba(8, 21, 15, 1);
+
+// $azure
+$azure-1  : rgba(235, 245, 247, 1);
+$azure-2  : rgba(208, 231, 235, 1);
+$azure-3  : rgba(180, 217, 223, 1);
+$azure-4  : rgba(153, 203, 211, 1);
+$azure-5  : rgba(125, 189, 200, 1);
+$azure-6  : rgba(112, 182, 194, 1);
+
+$azure-7  : rgba(98, 175, 188, 1);
+
+$azure-8  : rgba(68, 146, 159, 1);
+$azure-9  : rgba(56, 121, 132, 1);
+$azure-10 : rgba(44, 96, 104, 1);
+$azure-11 : rgba(33, 70, 77, 1);
+$azure-12 : rgba(21, 45, 49, 1);
+$azure-13 : rgba(9, 20, 22, 1);
+
+// $lgray
+$lgray-1  : rgb(246,247,249);
+$lgray-2  : rgb(224,228,232);
+$lgray-3  : rgb(200,207,215);
+$lgray-4  : rgb(178,188,199);
+$lgray-5  : rgb(156,168,182);
+$lgray-6  : rgb(133,148,166);
+
+$lgray-7  : rgb(101,119,139);
+
+$lgray-8  : rgb(85,99,116);
+$lgray-9  : rgb(68,80,93);
+$lgray-10 : rgb(52,60,71);
+$lgray-11 : rgb(35,41,48);
+$lgray-12 : rgb(18,22,26);
+$lgray-13 : rgb(2,2,3);
+
+// $blue
+$blue-1  : rgb(245,250,255);
+$blue-2  : rgb(206,229,255);
+$blue-3  : rgb(167,208,255);
+$blue-4  : rgb(128,187,255);
+$blue-5  : rgb(88,166,255);
+$blue-6  : rgb(49,144,255);
+
+$blue-7  : rgba(10, 123, 255, 1);
+
+$blue-8  : rgb(0,104,226);
+$blue-9  : rgb(0,86,186);
+$blue-10 : rgb(0,68,147);
+$blue-11 : rgb(0,50,108);
+$blue-12 : rgb(0,32,69);
+$blue-13 : rgb(0,14,30);
+
+//orange
+$orange-1  : rgba(255,249,248, 1);
+$orange-2  : rgba(255,215,208, 1);
+$orange-3  : rgba(255,182,169, 1);
+$orange-4  : rgba(255,149,130, 1);
+$orange-5  : rgba(255,116,91, 1);
+$orange-6  : rgba(255,82,51, 1);
+
+$orange-7  : rgba(255,49,12, 1);
+
+$orange-8  : rgba(248,38,0, 1);
+$orange-9  : rgba(208,32,0, 1);
+$orange-10 : rgba(169,26,0, 1);
+$orange-11 : rgba(130,20,0, 1);
+$orange-12 : rgba(91,14,0, 1);
+$orange-13 : rgba(51,8,0, 1);
+
+//Darkpink
+$pink-1  : rgb(255,251,253);
+$pink-2  : rgb(253,214,229);
+$pink-3  : rgb(251,176,206);
+$pink-4  : rgb(250,139,183);
+$pink-5  : rgb(248,101,159);
+$pink-6  : rgb(246,64,136);
+
+$pink-7  : rgb(245,26,113);
+
+$pink-8  : rgb(221,10,94);
+$pink-9  : rgb(184,8,78);
+$pink-10 : rgb(146,7,62);
+$pink-11 : rgb(109,5,46);
+$pink-12 : rgb(71,3,30);
+$pink-13 : rgb(34,2,14);
