@@ -5,6 +5,7 @@ This framework is ready to use without learning sass/scss, it's compiled in a si
 - Blue
 - Purple
 - Light Red
+- Pink
 - Orange
 - Green
 - Marine
