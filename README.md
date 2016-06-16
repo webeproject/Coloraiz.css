@@ -57,10 +57,10 @@ to color a text you only need to add to it the class with the name of the color 
   <p class="cz purple-7"> and this text Purple</p>
 </div>
 ```
-also if you want color the background of the <code>div</code> you simply add the <code>.cz-bg</code> class to it
+also if you want color the background of the <code>div</code> you simply add the <code>.bg</code> class to it
 </div>
 ```html
-<!-- General html -->
+<!-- Background html -->
 ...
 <div class="cz gray-3 bg"> <!-- i add the class to the div -->
   <h1 class="cz azure-7">This title is Azure</h1>
