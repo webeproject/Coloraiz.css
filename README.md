@@ -1,5 +1,5 @@
 # Coloraiz.css
-This framework is ready to use without learning sass/scss, it's compiled in a single .css file with a class for every color shade. In this guide you'll learn how to implement in your projects, so.. let's start coding!
+This is a sass/scss library, pre-compiled in a single .css file with a class for every color shade. In this guide you'll learn how to implement in your projects, so.. let's start coding!
 
 <h2>Available colors:</h2> 
 - Blue
