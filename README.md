@@ -14,7 +14,7 @@ This is a sass/scss library, pre-compiled in a single .css file with a class for
 - Gray (includes White & Black)
 
 <h2>Why Colorize?</h2>
-What <strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></strong> wants to do is semplify the color selection, so we added 13 shades for every colors. Shades are structured with numbers, ranging from 1 to 13 (from lighter to darker) 
+What <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> wants to do is semplify the color selection, so we added 13 shades for every colors. Shades are structured with numbers, ranging from 1 to 13 (from lighter to darker) 
 
 Here the list with sample classes: 
 ```html
@@ -36,7 +36,7 @@ Here the list with sample classes:
 So as you can see there is a prefix class before every $colorname and next there is the number of the shade.
 
 <h1>Download</h1>
-To get <strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></strong> you can get it directly <a href="https://github.com/Rawnly/Coloraiz.css.git">here</a> on GitHub or from our <a href="http://www.coloraiz.webe.io">website</a>
+To get <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> you can get it directly <a href="https://github.com/webeproject/Coloraiz.css">here</a> on GitHub or from our <a href="http://coloraiz.webe.io">website</a>
 next you only need to link it in your page like a normal stylesheet
 ```html
 <link link rel="stylesheet" href="../coloraiz/coloraiz.css" >
@@ -47,7 +47,7 @@ or you can use a mini rawgit CDN
 ```
 
 <h1>How to use</h1>
-<strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></strong> is very easy to use,
+<strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> is very easy to use,
 to color a text you only need to add to it the class with the name of the color and the shade code
 ```html
 <!-- General html -->
