@@ -18,22 +18,22 @@ What <strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></
 
 Here the list with sample classes: 
 ```html
-.cz-$colorname-1
-.cz-$colorname-2
-.cz-$colorname-3
-.cz-$colorname-4
-.cz-$colorname-5
-.cz-$colorname-6
-.cz-$colorname-7
-.cz-$colorname-8
-.cz-$colorname-9
-.cz-$colorname-10
-.cz-$colorname-11
-.cz-$colorname-12
-.cz-$colorname-13
+.cz .$colorname-1
+.cz .$colorname-2
+.cz .$colorname-3
+.cz .$colorname-4
+.cz .$colorname-5
+.cz .$colorname-6
+.cz .$colorname-7
+.cz .$colorname-8
+.cz .$colorname-9
+.cz .$colorname-10
+.cz .$colorname-11
+.cz .$colorname-12
+.cz .$colorname-13
 ```
 
-So as you can see there is a prefix before every $colorname and next there is the number of the shade.
+So as you can see there is a prefix class before every $colorname and next there is the number of the shade.
 
 <h1>Download</h1>
 To get <strong><a href="https://github.com/Rawnly/Coloraiz.css.git">Coloraiz</a></strong> you can get it directly <a href="https://github.com/Rawnly/Coloraiz.css.git">here</a> on GitHub or from our <a href="http://www.coloraiz.webe.io">website</a>
@@ -53,8 +53,8 @@ to color a text you only need to add to it the class with the name of the color 
 <!-- General html -->
 ...
 <div>
-  <h1 class="cz-azure-7">This title is Azure</h1>
-  <p class="cz-purple-7"> and this text Purple</p>
+  <h1 class="cz azure-7">This title is Azure</h1>
+  <p class="cz purple-7"> and this text Purple</p>
 </div>
 ```
 also if you want color the background of the <code>div</code> you simply add the <code>.cz-bg</code> class to it
@@ -62,8 +62,8 @@ also if you want color the background of the <code>div</code> you simply add the
 ```html
 <!-- General html -->
 ...
-<div class="cz-gray-3 cz-bg"> <!-- i add the class to the div -->
-  <h1 class="cz-azure-7">This title is Azure</h1>
-  <p class="cz-purple-7"> and this text Purple</p>
+<div class="cz gray-3 bg"> <!-- i add the class to the div -->
+  <h1 class="cz azure-7">This title is Azure</h1>
+  <p class="cz purple-7"> and this text Purple</p>
 </div>
 ```
