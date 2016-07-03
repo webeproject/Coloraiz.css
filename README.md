@@ -48,8 +48,8 @@ or you can use a mini rawgit dev CDN for css
 <link link rel="stylesheet" href="https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/coloraiz.min.css" >
 ```
 or this for scss colors 
-```html 
-<link rel="stylesheet" href="https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/colors.scss" />
+```sass 
+@import 'https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/colors.scss';
 ```
 ##Usage
 <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> is so fast,
