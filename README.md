@@ -35,7 +35,7 @@ Here the list with sample classes:
 
 So as you can see there is a prefix class before every $colorname and next there is the number of the shade.
 
-<h1>Download</h1>
+##Download
 To get <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> you can get it directly <a href="https://github.com/webeproject/Coloraiz.css">here</a> on GitHub or from our <a href="http://coloraiz.webe.io">website</a>
 next you only need to link it in your page like a normal stylesheet
 ```html
@@ -46,9 +46,10 @@ or you can use a mini rawgit dev CDN
 <link link rel="stylesheet" href="https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/coloraiz.min.css" >
 ```
 
-<h1>How to use</h1>
-<strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> is very easy to use,
-to color a text you only need to add to it the class with the name of the color and the shade code
+##Usage
+<strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> is so fast,
+to assign a color you just add the corresponding class with its shade
+
 ```html
 <!-- General html -->
 ...
@@ -59,6 +60,7 @@ to color a text you only need to add to it the class with the name of the color 
 ```
 also if you want color the background of the <code>div</code> you simply add the <code>.bg</code> class to it
 </div>
+
 ```html
 <!-- Background html -->
 ...
