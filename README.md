@@ -43,11 +43,14 @@ next you only need to link it in your page like a normal stylesheet
 ```html
 <link link rel="stylesheet" href="../coloraiz/coloraiz.css" >
 ```
-or you can use a mini rawgit dev CDN
+or you can use a mini rawgit dev CDN for css
 ```html
 <link link rel="stylesheet" href="https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/coloraiz.min.css" >
 ```
-
+or this for scss colors 
+```html 
+<link rel="stylesheet" href="https://rawgit.com/webeproject/Coloraiz.css/master/Coloraiz/colors.scss" />
+```
 ##Usage
 <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> is so fast,
 to assign a color you just add the corresponding class with its shade
