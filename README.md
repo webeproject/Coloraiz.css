@@ -13,7 +13,10 @@ This is a sass/scss library, pre-compiled in a single .css file with a class for
 - Light Gray
 - Gray (includes White & Black)
 
-![Palette](palette_2.png)
+
+<p align="center">
+<img src="palette_2.png" title="plaette">
+</p>
 
 <h2>Why Colorize?</h2>
 What <strong><a href="https://github.com/webeproject/Coloraiz.css">Coloraiz</a></strong> wants to do is semplify the color selection, so we added 13 shades for every colors. Shades are structured with numbers, ranging from 1 to 13 (from lighter to darker) 
